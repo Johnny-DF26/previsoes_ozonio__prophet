@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🌍 Previsão de Níveis de Ozônio com Prophet
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)](https://www.python.org/downloads/)
@@ -6,6 +8,8 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 Sistema inteligente para **previsão de séries temporais** de concentração de ozônio (O₃) na atmosfera, utilizando a biblioteca **Prophet** do Facebook. Combina análise estatística avançada com uma interface web interativa.
+
+</div>
 
 ## 📋 Sumário
 
