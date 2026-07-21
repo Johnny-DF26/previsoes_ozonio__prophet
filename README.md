@@ -7,9 +7,8 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-red?style=flat-square&logo=streamlit)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
-Sistema inteligente para **previsão de séries temporais** de concentração de ozônio (O₃) na atmosfera, utilizando a biblioteca **Prophet** do Facebook. Combina análise estatística avançada com uma interface web interativa.
-
 </div>
+Sistema inteligente para **previsão de séries temporais** de concentração de ozônio (O₃) na atmosfera, utilizando a biblioteca **Prophet** do Facebook. Combina análise estatística avançada com uma interface web interativa.
 
 ## 📋 Sumário
 
