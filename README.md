@@ -7,7 +7,7 @@
 
 Sistema inteligente para **previsão de séries temporais** de concentração de ozônio (O₃) na atmosfera, utilizando a biblioteca **Prophet** do Facebook. Combina análise estatística avançada com uma interface web interativa.
 
-## 📋 Sumário.
+## 📋 Sumário
 
 - [Visão Geral](#visão-geral)
 - [Características](#características)
