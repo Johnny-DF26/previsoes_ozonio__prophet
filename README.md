@@ -135,7 +135,7 @@ O notebook contém:
 ├── requirements.txt                          # Dependências do projeto
 ├── README.md                                 # Este arquivo
 ├── data/
-│   └── processad/
+│   └──processed/
 │       └── previsao_ozonio.csv              # Dados processados para previsão
 ├── models/
 │   └── saved/
@@ -150,7 +150,7 @@ O notebook contém:
 
 - **`app.py`**: Aplicação principal com interface Streamlit
 - **`requirements.txt`**: Lista de todas as dependências Python necessárias
-- **`data/processad/`**: Dados processados prontos para uso
+- **`data/processed/`**: Dados processados prontos para uso
 - **`models/saved/`**: Modelo treinado em formato JSON (pronto para inferência)
 - **`notebooks/`**: Jupyter notebooks com análise exploratória e treinamento
 - **`src/`**: Módulos Python auxiliares (atualmente vazio)
